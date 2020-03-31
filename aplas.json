@@ -19,7 +19,28 @@
       "sme_name": "Gordy Munnion",
       "months_to_renew_support": "29",
       "sme_email": "Gordy.Munnion@memento.net.au",
-      "investment_number": "374"
+      "investment_number": "374",
+      "integrations": [
+        {
+          "id": "int-315",
+          "name": "INT-315",
+          "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
+          "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+          "sourceApplicationId": "sensorbyte",
+          "targetApplicationId": "hyperlocal",
+          "logical_server": "CLOUD-B2B",
+          "status_color": "#00FF00",
+          "pattern": "File Delivery",
+          "golive_date": "3/9/15",
+          "sme_name": "Adelice Passby",
+          "datacentre": "Asia Pacific (Sydney)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "apassby2@memento.net.au",
+          "complexity": "High",
+          "last_deployment_date": "16/12/15"
+        }
+      ]
     }
   ]
 }
