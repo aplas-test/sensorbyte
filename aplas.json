@@ -1,21 +1,25 @@
 {
-  "id": "sensorbyte",
-  "name": "Sensorbyte",
-  "categoryId": "inventory",
-  "description": "Universal encompassing secured line",
-  "investment_24m": "695",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "212",
-  "status_color": "#FFFF00",
-  "type": "InHouseDev",
-  "support_cost": "109",
-  "deployment_date": "17/12/14",
-  "end_of_maintenance": "27/6/17",
-  "department": "Training",
-  "status": "Sunsetting",
-  "end_of_life": "27/10/18",
-  "sme_name": "Gordy Munnion",
-  "months_to_renew_support": "29",
-  "sme_email": "Gordy.Munnion@memento.net.au",
-  "investment_number": "374"
+  "applications": [
+    {
+      "id": "sensorbyte",
+      "name": "Sensorbyte",
+      "categoryId": "inventory",
+      "description": "Universal encompassing secured line",
+      "investment_24m": "695",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "212",
+      "status_color": "#FFFF00",
+      "type": "InHouseDev",
+      "support_cost": "109",
+      "deployment_date": "17/12/14",
+      "end_of_maintenance": "27/6/17",
+      "department": "Training",
+      "status": "Sunsetting",
+      "end_of_life": "27/10/18",
+      "sme_name": "Gordy Munnion",
+      "months_to_renew_support": "29",
+      "sme_email": "Gordy.Munnion@memento.net.au",
+      "investment_number": "374"
+    }
+  ]
 }
