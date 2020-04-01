@@ -26,7 +26,6 @@
           "name": "INT-315",
           "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
           "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
-          "sourceApplicationId": "sensorbyte",
           "targetApplicationId": "hyperlocal",
           "logical_server": "CLOUD-B2B",
           "status_color": "#00FF00",
